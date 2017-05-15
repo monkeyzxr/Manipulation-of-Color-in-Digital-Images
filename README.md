@@ -5,4 +5,4 @@ Created by Xiangru Zhou
 
 All questions are solved by C++ with OpenCV library.
 
-Note: Only my project report is uploaded. If you need the source code, please contact me.
+Note: Only my project report is uploaded. 
